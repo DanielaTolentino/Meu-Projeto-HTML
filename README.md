@@ -1,2 +1,2 @@
-# meu-projeto-HTML
+# Meu-Projeto-HTML
 Olá, este é meu projeto de HTML disciplina Desenvolvimento Front-End Para Web
